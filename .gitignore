@@ -1,3 +1,16 @@
+# Problem csv files
+1/tj_01_creditcard_card.csv
+1/tj_01_creditcard_customer.csv
+1/tj_01_creditcard_transaction.csv
+2/tj_02_acc_x_card.csv
+2/tj_02_account_transaction.csv
+2/tj_02_creditcard_transaction.csv
+3/tj_03_account_info.csv
+3/tj_03_deposit_txn.csv
+4/account_info.csv
+4/account_transaction.csv
+5/tj_05_credit_card_transaction.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
